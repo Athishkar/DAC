@@ -81,16 +81,19 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |           |             | 
-| Square    |           |             |
+| Sawtooth  |   7.4     |   2.9       | 
+| Square    |   8.20    |   9.27      |
 ---
 
 ## Model Graph
 
 #### SAWTOOTH WAVE:
+![WhatsApp Image 2025-09-21 at 21 59 28_7f5e0001](https://github.com/user-attachments/assets/fa0c30f7-18f5-4c34-84c9-10e71704ba6a)
+
 
 
 #### SQUARE WAVE:
+![WhatsApp Image 2025-09-21 at 21 59 29_67eba71c](https://github.com/user-attachments/assets/74191d53-e392-47d7-ae31-124b583f1063)
 
 
 
